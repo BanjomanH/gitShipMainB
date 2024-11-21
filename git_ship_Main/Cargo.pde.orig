@@ -3,10 +3,14 @@ ArrayList<String> cargo = new ArrayList<String>();
 
 void loadCargo(){
 <<<<<<< HEAD
+  cargo.add("A cryogenically frozen 21st Century nerd by the name of Daniel Shiffman");
   cargo.add("Blueprints for GLaDOS");
-=======
   cargo.add("Three calling doves");
   cargo.add("Three little pigs");
   cargo.add("Nirvana");
->>>>>>> ThrupleSystem
+=======
+  cargo.add("One freshly baked moon pie");
+  cargo.add("Two crates of moonshine");
+  cargo.add("28 boxes of mooncakes");
+>>>>>>> ManyMoons
 }
